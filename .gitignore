@@ -168,3 +168,8 @@ cython_debug/
 /data/fss_stt_review.zip
 /data/fss_qwen_*.zip
 
+# Backend runtime data (analysis database and uploaded audio)
+/backend/api_server/storage/
+
+/backend/api_server/tests/
+/backend/api_server/.env.example
